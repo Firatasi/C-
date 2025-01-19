@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i87zpep797k=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\FIRAT\\Desktop\\Project1\\Properties\\Properties.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FIRAT\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}

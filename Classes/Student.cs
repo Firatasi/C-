@@ -9,7 +9,7 @@ namespace Classes
 {
     class Student
     {
-        public string MyProperty FirstName { get; set; }
+        public string MyProperty FirsgitgittName { get; set; }
         public int String Age { get; set;} 
         public String Mail { get; set;}
     }
