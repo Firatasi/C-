@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\FIRAT\\Desktop\\Project1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{19318596-F7C1-4F20-B763-70B413B034C4}|ReferenceTypes\\ReferenceTypes.csproj|c:\\users\\firat\\desktop\\project1\\referencetypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19318596-F7C1-4F20-B763-70B413B034C4}|ReferenceTypes\\ReferenceTypes.csproj|solutionrelative:referencetypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5707756E-4722-4E7F-A40C-40B6B619B4EB}|AccessModifiers\\AccessModifiers.csproj|c:\\users\\firat\\desktop\\project1\\accessmodifiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5707756E-4722-4E7F-A40C-40B6B619B4EB}|AccessModifiers\\AccessModifiers.csproj|solutionrelative:accessmodifiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68C40BB5-F049-4A97-9BD6-396B60E50DDB}|Inheritance\\Inheritance.csproj|c:\\users\\firat\\desktop\\project1\\inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68C40BB5-F049-4A97-9BD6-396B60E50DDB}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5707756E-4722-4E7F-A40C-40B6B619B4EB}|AccessModifiers\\AccessModifiers.csproj|c:\\users\\firat\\desktop\\project1\\accessmodifiers\\house.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5707756E-4722-4E7F-A40C-40B6B619B4EB}|AccessModifiers\\AccessModifiers.csproj|solutionrelative:accessmodifiers\\house.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\FIRAT\\Desktop\\Project1\\ReferenceTypes\\Program.cs",
-              "RelativeDocumentMoniker": "ReferenceTypes\\Program.cs",
-              "ToolTip": "C:\\Users\\FIRAT\\Desktop\\Project1\\ReferenceTypes\\Program.cs",
-              "RelativeToolTip": "ReferenceTypes\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "House.cs",
+              "DocumentMoniker": "C:\\Users\\FIRAT\\Desktop\\Project1\\AccessModifiers\\House.cs",
+              "RelativeDocumentMoniker": "AccessModifiers\\House.cs",
+              "ToolTip": "C:\\Users\\FIRAT\\Desktop\\Project1\\AccessModifiers\\House.cs",
+              "RelativeToolTip": "AccessModifiers\\House.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T23:39:17.523Z",
+              "WhenOpened": "2025-01-19T12:52:34.172Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\FIRAT\\Desktop\\Project1\\Inheritance\\Program.cs",
-              "RelativeDocumentMoniker": "Inheritance\\Program.cs",
-              "ToolTip": "C:\\Users\\FIRAT\\Desktop\\Project1\\Inheritance\\Program.cs",
-              "RelativeToolTip": "Inheritance\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\FIRAT\\Desktop\\Project1\\AccessModifiers\\Program.cs",
+              "RelativeDocumentMoniker": "AccessModifiers\\Program.cs",
+              "ToolTip": "C:\\Users\\FIRAT\\Desktop\\Project1\\AccessModifiers\\Program.cs",
+              "RelativeToolTip": "AccessModifiers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T23:26:25.127Z",
+              "WhenOpened": "2025-01-19T12:40:43.427Z",
               "EditorCaption": ""
             }
           ]
